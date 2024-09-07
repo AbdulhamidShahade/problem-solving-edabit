@@ -1,4 +1,4 @@
-//Author : Abdulhamit Sahadi
+//Author : Abdulhamid Shahade
 //Created: Aug 31, 2024
 //Problem Link: https://edabit.com/challenge/uEiTAhNN6HgESspWb
 
